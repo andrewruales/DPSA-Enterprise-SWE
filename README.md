@@ -13,7 +13,7 @@ To run the code, follow these steps:
 * On Windows, use:
 `g++ -o mycode.exe in_memory_db.cpp`
 
-### 2. Run the Executable:
+#### 2. Run the Executable:
 
 * Execute the compiled program:
 * On macOS:
@@ -21,11 +21,11 @@ To run the code, follow these steps:
 * On Windows:
 `mycode.exe`
 
-### 3. Review Output:
+#### 3. Review Output:
 
 * The program will display the results of the database operations based on the example usage in the main() function.
 
-## Future Modifications
+#### Future Modifications
 
 * Enhanced Error Handling:
 Improve error handling for edge cases and unexpected inputs to make the code more robust.
