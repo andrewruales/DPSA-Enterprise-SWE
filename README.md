@@ -9,9 +9,9 @@ To run the code, follow these steps:
 
 * Open a terminal and navigate to the directory containing the in_memory_db.cpp file.
 * Run the following command to compile the code (on macOS):
-`g++ -o mycode in_memory_db.cpp`
+`g++ -o mycode InMemDatabase.cpp`
 * On Windows, use:
-`g++ -o mycode.exe in_memory_db.cpp`
+`g++ -o mycode.exe InMemDatabase.cpp`
 
 #### 2. Run the Executable:
 
